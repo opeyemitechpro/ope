@@ -11,7 +11,7 @@ pin: true
 
 <figure markdown="1">
 ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/favicon.png "Opeyemi Okuboyejo")
-<figcaption><strong><h2>Opeyemi Okuboyejo</h2><h6></h6><br> DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator || IT Support Engineer</strong></figcaption>
+<figcaption><strong><h2>Opeyemi Okuboyejo</h2><h6>&nbsp</h6><br> DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator || IT Support Engineer</strong></figcaption>
 </figure>
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
