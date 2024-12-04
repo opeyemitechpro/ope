@@ -15,6 +15,8 @@ pin: true
 ![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo"){ width="300"}
 /// caption
 **Opeyemi Okuboyejo**
+**DevOps Engineer**
+**AWS Certified Solutions Architect**
 ///
 
 ## **About Me**
