@@ -257,7 +257,7 @@ copyright: |
 nav:
   - Profile Home: profile.md
   # - Start Here: index.md
-  - My Projects Documenation: my_projects.md
+  - My Projects Documenation: my-projects.md
   - My Blog: blog.md
   # - AWS:
   #   - aws_projects/index.md
