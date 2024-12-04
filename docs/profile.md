@@ -32,7 +32,7 @@ pin: true
 
   <!-- Element to contain animated typing -->
   <!-- <span id="element"></span> -->
-  <span id="element" style="color: yellow; font-size: 1rem;"></span>
+  A&nbsp;<span id="element" style="color: yellow; font-size: 1rem;"></span>
 
   <!-- Load library from the CDN -->
   <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
