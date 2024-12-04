@@ -12,7 +12,7 @@ pin: true
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
 
-![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo"){ width="50"}
+![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo"){ width="200"}
 /// caption
 **Opeyemi Okuboyejo**
 ///
