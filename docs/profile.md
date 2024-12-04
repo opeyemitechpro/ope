@@ -9,24 +9,23 @@ pin: true
 ---
 
 
+<figure markdown="1">
+![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/favicon.png "Opeyemi Okuboyejo")
+<figcaption><strong><h2>Opeyemi Okuboyejo</h2><br> DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator || IT Support Engineer</strong></figcaption>
+</figure>
+
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
-## **About Me**
 
-![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo")
+<!-- ![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo")
 /// caption 
 **Opeyemi Okuboyejo** 
-///
-/// caption 
-**DevOps & Cloud Engineer** 
-///
-/// caption 
-**AWS Certified Solutions Architect** 
-///
+/// -->
+
 
 ## **About Me**
 
-Hello, I'm Opeyemi Okuboyejo
+<h2>Hello, I'm Opeyemi Okuboyejo</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
 
