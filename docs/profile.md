@@ -27,6 +27,17 @@ pin: true
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
 
+  <!-- typed.js -->
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script type="text/javascript">
+    var typed = new Typed('.typing',{
+      strings: ["Certified AWS Solutions Architect...", "Cloud Engineer...", "DevOps Engineer...", "Systems Administrator..."],
+      loop: true,
+      typeSpeed: 30,
+      backSpeed: 20
+    });
+  </script>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
 
 I am an AWS Certified Solutions Architect with expertise in designing resilient distributed systems. My proficiency extends to Microsoft technologies, where I've successfully implemented solutions for medium to large-scale organizations. With over 15 years in the IT industry, I possess a strong background in DevOps & Cloud Engineering, Systems & Network administration, and more. My passion for learning is evident in my trend research and mentoring activities, showcasing my entrepreneurial leadership abilities.
