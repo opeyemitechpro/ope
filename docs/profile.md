@@ -28,7 +28,7 @@ pin: true
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
 
   <!-- typed.js -->
-  <script src="vendor/typed.js/typed.min.js"></script>
+  <!-- <script src="vendor/typed.js/typed.min.js"></script>
   <script type="text/javascript">
     var typed = new Typed('.typing',{
       strings: ["Certified AWS Solutions Architect...", "Cloud Engineer...", "DevOps Engineer...", "Systems Administrator..."],
@@ -36,8 +36,23 @@ pin: true
       typeSpeed: 30,
       backSpeed: 20
     });
-  </script>
+  </script> -->
 
+  <!-- Element to contain animated typing -->
+  <span id="element"></span>
+
+  <!-- Load library from the CDN -->
+  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+  <!-- Setup and start animation! -->
+  <script>
+    var typed = new Typed('#element', {
+    //   strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
+      strings: ["Certified AWS Solutions Architect...", "Cloud Engineer...", "DevOps Engineer...", "Systems Administrator..."],
+      typeSpeed: 50,
+    });
+  </script>
+<!-- </body> -->
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
