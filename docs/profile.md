@@ -27,12 +27,9 @@ pin: true
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
 
-<span style="color: yellow; font-size: 1rem;">A&nbsp;</span>
-  
-
   <!-- Element to contain animated typing -->
   <!-- <span id="element"></span> -->
-  A&nbsp;<span id="element" style="color: yellow; font-size: 1rem;"></span>
+<span style="color: yellow; font-size: 1rem;">A&nbsp;</span><span id="element" style="color: yellow; font-size: 2rem;"></span>
 
   <!-- Load library from the CDN -->
   <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
@@ -41,7 +38,7 @@ pin: true
   <script>
     var typed = new Typed('#element', {
     //   strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-      strings: ["DevOPs Engineer...", "I am a Cloud Engineer...", "Certified AWS Solutions Architect...", "Systems Administrator..."],
+      strings: [" DevOps & Cloud Engineer...", "Certified AWS Solutions Architect...", "Systems Administrator...", "IT Support Engineer..."],
       loop: true,
       typeSpeed: 30,
       backSpeed: 20
