@@ -11,11 +11,18 @@ pin: true
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
+## **About Me**
 
 ![Opeyemi Okuboyejo](assets/images/favicon.png "Opeyemi Okuboyejo")
-/// caption **Opeyemi Okuboyejo** ///
-/// caption **DevOps & Cloud Engineer** ///
-/// caption **AWS Certified Solutions Architect** ///
+/// caption 
+**Opeyemi Okuboyejo** 
+///
+/// caption 
+**DevOps & Cloud Engineer** 
+///
+/// caption 
+**AWS Certified Solutions Architect** 
+///
 
 ## **About Me**
 
