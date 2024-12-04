@@ -28,7 +28,7 @@ pin: true
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
 
   <!-- typed.js -->
-  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="vendor/typed.js/typed.min.js"></script>
   <script type="text/javascript">
     var typed = new Typed('.typing',{
       strings: ["Certified AWS Solutions Architect...", "Cloud Engineer...", "DevOps Engineer...", "Systems Administrator..."],
@@ -37,6 +37,8 @@ pin: true
       backSpeed: 20
     });
   </script>
+
+  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
 
