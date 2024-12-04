@@ -26,28 +26,9 @@ pin: true
 ## **About Me**
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
-
-  <!-- Element to contain animated typing -->
-  <!-- <span id="element"></span> -->
-<span style="color: yellow; font-size: 1rem;">A&nbsp;</span><span id="element" style="color: yellow; font-size: 2rem;">A&nbsp;</span>
-
-  <!-- Load library from the CDN -->
-  <script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
-
-  <!-- Setup and start animation! -->
-  <script>
-    var typed = new Typed('#element', {
-    //   strings: ['<i>First</i> sentence.', '&amp; a second sentence.'],
-      strings: [" DevOps & Cloud Engineer...", "Certified AWS Solutions Architect...", "Systems Administrator...", "IT Support Engineer..."],
-      loop: true,
-      typeSpeed: 30,
-      backSpeed: 20
-    });
-  </script>
-<!-- </body> -->
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer;A+Cloud+Engineer;A+Certified+Solutions+Architect;A+Systems+Administrator)](https://opeyemitech.pro)
 
 I am an AWS Certified Solutions Architect with expertise in designing resilient distributed systems. My proficiency extends to Microsoft technologies, where I've successfully implemented solutions for medium to large-scale organizations. With over 15 years in the IT industry, I possess a strong background in DevOps & Cloud Engineering, Systems & Network administration, and more. My passion for learning is evident in my trend research and mentoring activities, showcasing my entrepreneurial leadership abilities.
 
