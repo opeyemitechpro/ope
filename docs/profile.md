@@ -25,7 +25,7 @@ pin: true
 
 ## **About Me**
 
-<h2>Hello, I'm Opeyemi Okuboyejo</h2>
+<h2>Hello, I'm Opeyemi Okuboyejo</h2><br>
   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=40&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
