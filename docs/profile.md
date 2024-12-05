@@ -10,7 +10,7 @@ pin: true
 
 
 <figure markdown="1">
-![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/favicon.png "Opeyemi Okuboyejo")
+![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo")
 <figcaption><strong><h2>Opeyemi Okuboyejo</h2><h6>&nbsp;</h6><br> DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator || IT Support Engineer</strong></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ pin: true
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=20&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=40&duration=2000&pause=500&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
 
 I am an AWS Certified Solutions Architect with expertise in designing resilient distributed systems. My proficiency extends to Microsoft technologies, where I've successfully implemented solutions for medium to large-scale organizations. With over 15 years in the IT industry, I possess a strong background in DevOps & Cloud Engineering, Systems & Network administration, and more. My passion for learning is evident in my trend research and mentoring activities, showcasing my entrepreneurial leadership abilities.
 
