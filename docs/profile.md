@@ -9,6 +9,8 @@ pin: true
 ---
 
 
+## Home 
+
 <figure markdown="1">
 ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="250" }
 </figure>
@@ -65,8 +67,6 @@ Looking for an opportunity to work in a challenging position combining my skills
     [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
     [![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
 
-
----
 
 ## **:tools: Projects**
 
@@ -149,17 +149,16 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     ???+ award "AWS Certified Solutions Architect – Associate" 
         
-              <figure markdown="1">
-              ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
-              </figure>
+        ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
+        </figure>
           
-              ---
+        ---
 
-              Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
+        Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
                           
-              [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
 
-              [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
+        [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
 
         
 
