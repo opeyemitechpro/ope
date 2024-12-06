@@ -28,7 +28,7 @@ pin: true
 /// -->
 
 
-## ** :fontawesome-regular-id-card: About Me**
+## **:fontawesome-regular-id-card: About Me**
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
   
@@ -43,6 +43,9 @@ Industry Knowledge: Linux Admin, Cloud Infrastructure, Cloud Services, Database 
 Looking for an opportunity to work in a challenging position combining my skills in Cloud Engineering, which provides professional development, interesting experiences and personal growth.
 
 ---
+
+## **Where To Find Me**
+
 [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
 [![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
 [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
@@ -84,7 +87,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 
 
-##  ** :briefcase: Work Experience**
+##  **:briefcase: Work Experience**
 
 !!! work-green "Work Experience"
 
@@ -93,14 +96,14 @@ Looking for an opportunity to work in a challenging position combining my skills
 
         **Systems Administrator, IT Support Engineer**
 
-        - Three Rings Integrity Systems is an IT service company that provides IT services to small, medium, and large businesses.
-        - Working with a wide range of clients, I provide web hosting, server setup and configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances.
-        - For small businesses without an in-house IT team, I provide technical IT support, website design & development services and self-hosted email marketing solutions for email marketing clients.
-        - Clients are supported through various means including break-fix, proactive managed support and engagement with principal stakeholders to determine business direction and propose/implement solutions that support their business outcomes.
-        - Web Hosting Server Setup and Configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances
-        - Website Design & Development services
-        - Self-Hosted Email Server Configuration for Email Marketing Clients
-        - Skills/Tools: Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
+          - Three Rings Integrity Systems is an IT service company that provides IT services to small, medium, and large businesses.
+          - Working with a wide range of clients, I provide web hosting, server setup and configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances.
+          - For small businesses without an in-house IT team, I provide technical IT support, website design & development services and self-hosted email marketing solutions for email marketing clients.
+          - Clients are supported through various means including break-fix, proactive managed support and engagement with principal stakeholders to determine business direction and propose/implement solutions that support their business outcomes.
+          - Web Hosting Server Setup and Configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances
+          - Website Design & Development services
+          - Self-Hosted Email Server Configuration for Email Marketing Clients
+          - Skills/Tools: Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
 
     ??? work-green "SunPoint IT Solutions, LLC"
         ==`2019 - 2020` || `San Fransisco Bay Area`==
@@ -127,11 +130,18 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ## **💻 Tech Stack**
 
+!!! project "Languages and Tools I Use"
+    
+    <p align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx.powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim" />
+      </a>
+    </p>
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 
-## ** :fontawesome-solid-award: Certifications**
+## **:fontawesome-solid-award: Certifications**
 
 !!! award "Certifications and Awards"
 
@@ -157,13 +167,13 @@ Looking for an opportunity to work in a challenging position combining my skills
 
         </div>
 
-    !!! award "Miscrosoft Certified Professional (MCP)" 
+    !!! award "Microsoft Certified Professional (MCP)" 
         
         <div class="grid cards" markdown>
 
-        -   :fontawesome-solid-award:{ .lg .middle } __Miscrosoft Certified Professional (MCP)__
+        -   :fontawesome-solid-award:{ .lg .middle } __Microsoft Certified Professional (MCP)__
 
-            ![Miscrosoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Professional (MCP)"){ width="200" }        
+            ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="200" }        
             ---
 
             Expert in Microsoft systems, hardware, software, and platforms 
