@@ -138,17 +138,13 @@ Looking for an opportunity to work in a challenging position combining my skills
       </a>
     </p>
 
-    <!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  -->
-
-
+    
 ## **:fontawesome-solid-award: Certifications**
 
 !!! award ""
 
     !!! award "AWS Certified Solutions Architect – Associate" 
         
-        :fontawesome-solid-award:{ .lg .middle } __AWS Certified Solutions Architect – Associate__
-
             <figure markdown="1">
             ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
             </figure>
@@ -165,12 +161,10 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     !!! award "Microsoft Certified Professional (MCP)" 
         
-        :fontawesome-solid-award:{ .lg .middle } __Microsoft Certified Professional (MCP)__
-
             <figure markdown="1">
             ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="200" }
             </figure>
-                    
+
             ---
 
             Expert in Microsoft systems, hardware, software, and platforms 
