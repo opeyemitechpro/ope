@@ -46,7 +46,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ## **:fontawesome-solid-magnifying-glass-location: Where To Find Me**
 
-!!! location-search " "
+!!! location-search "Follow Me"
 
     [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
     [![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
