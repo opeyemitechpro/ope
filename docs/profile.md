@@ -157,9 +157,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
         - Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
                           
-        [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
-
-        [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" .md-button .md-button--primary} [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" .md-button .md-button--primary}
 
         
 
