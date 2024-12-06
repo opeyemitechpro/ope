@@ -19,30 +19,32 @@ pin: true
 <p align="center">Systems Administrator & IT Support Engineer</p>
 
 
-<div class="grid cards" markdown>
+??? project "OpenVPN Access Server Setup on AWS Using Terraform" 
+    
+    <div class="grid cards" markdown>
 
--   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
 
-:material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+    :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
-    ---
+        ---
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+        Install [`mkdocs-material`](https://opeyemitech.pro/my-projects) with [`pip`](https://opeyemitech.pro/my-projects) and get up
+        and running in minutes
 
-    [:octicons-arrow-right-24: Getting started](#)
+        [:octicons-arrow-right-24: Getting started](#)
 
--   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
 
-:fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+    :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
 
-    ---
+        ---
 
-    Focus on your content and generate a responsive and searchable static site
+        Focus on your content and generate a responsive and searchable static site
 
-    [:octicons-arrow-right-24: Reference](#)
+        [:octicons-arrow-right-24: Reference](https://opeyemitech.pro/my-projects)
 
-</div>
+    </div>
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
@@ -89,7 +91,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **Experience**
 
-??? work-green "Three Rings Integrity Systems (TRIS)"
+??? project "Three Rings Integrity Systems (TRIS)"
     ==`2020 - Till Date` || `Ogun State, Nigeria`==
 
     **Systems Administrator, IT Support Engineer**
@@ -116,7 +118,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ==`2007 - 2017` || `Ogun State, Nigeria`==
     
     **Systems & Network Engineer**
-    
+
     - Regularly relate directly with clients to resolve various challenges with their PCs ranging from hardware faults to software crashes and general interconnectivity issues that arise from day-to-day usage of personal computers (including Laptops and Desktops) both in-house and onsite.
     - Procured suitable and appropriate computer systems for both individuals and organizations based on professional recommendations
     - Negotiated several IT contracts and led the delivery of various end-to-end projects over an 8-year period
