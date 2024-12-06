@@ -155,7 +155,7 @@ Looking for an opportunity to work in a challenging position combining my skills
           
         ---
 
-        Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
+        - Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
                           
         [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
 
@@ -165,47 +165,47 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     ???+ award "Microsoft Certified Professional (MCP)" 
         
-              <figure markdown="1">
-              ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="200" }
-              </figure>
+        <figure markdown="1">
+        ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="200" }
+        </figure>
 
-              ---
+        ---
 
-              - Proficient in Microsoft Products and Services. 
+        - Proficient in Microsoft Products and Services. 
                           
-              [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
 
-              [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
     
 
     ???+ award "Miscrosoft Certified Systems Administrator (MCSA)" 
         
-              <figure markdown="1">
-              ![Miscrosoft Certified Systems Administrator (MCSA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Systems Administrator (MCSA)"){ width="200" }
-              </figure>
+        <figure markdown="1">
+        ![Miscrosoft Certified Systems Administrator (MCSA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Systems Administrator (MCSA)"){ width="200" }
+        </figure>
 
-              ---
+        ---
 
-              - Support, troubleshoot, and maintain Microsoft Servers, Desktops and Networks 
+        - Support, troubleshoot, and maintain Microsoft Servers, Desktops and Networks 
                           
-              [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
 
-              [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
     
 
     ???+ award "Miscrosoft Certified Database Administrator (MCDBA)" 
         
-            <figure markdown="1">
-            ![Miscrosoft Certified Database Administrator (MCDBA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Database Administrator (MCDBA)"){ width="200" }
-            </figure>
+        <figure markdown="1">
+        ![Miscrosoft Certified Database Administrator (MCDBA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Database Administrator (MCDBA)"){ width="200" }
+        </figure>
 
-            ---
+        ---
 
-            - Manage on-premises and cloud databases built with SQL Server and SQL database services 
+        - Manage on-premises and cloud databases built with SQL Server and SQL database services 
                         
-            [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
 
-            [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
 
 
 
