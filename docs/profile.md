@@ -149,6 +149,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     ???+ award "AWS Certified Solutions Architect – Associate" 
         
+        <figure markdown="1">
         ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
         </figure>
           
