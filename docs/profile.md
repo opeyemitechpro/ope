@@ -46,20 +46,24 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ## **:fontawesome-solid-magnifying-glass-location: Where To Find Me**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
-[![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
-[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
-[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects)
-<!-- [![Projects Portfolio](https://img.shields.io/badge/-Opeyemi's_Projects_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects) -->
+!!! location-search " "
 
-[![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel-white?style=social&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/@opeyemitechpro)](https://www.youtube.com/channel/@opeyemitechpro)
-[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCaD6f_WgaHbBY_7-YPrJMlA?style=social)](https://www.youtube.com/channel/UCaD6f_WgaHbBY_7-YPrJMlA)
+    [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+    [![Gmail Badge](https://img.shields.io/badge/-okuboyejoopeyemi01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
+    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io)](https://opeyemitechpro.github.io)
+    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects)
 
-![GitHub stars](https://img.shields.io/github/stars/opeyemitechpro/opeyemitechpro.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/main)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
-[![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+
+    <!-- [![Projects Portfolio](https://img.shields.io/badge/-Opeyemi's_Projects_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects) -->
+
+    [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel-white?style=social&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/@opeyemitechpro)](https://www.youtube.com/channel/@opeyemitechpro)
+    [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCaD6f_WgaHbBY_7-YPrJMlA?style=social)](https://www.youtube.com/channel/UCaD6f_WgaHbBY_7-YPrJMlA)
+
+    ![GitHub stars](https://img.shields.io/github/stars/opeyemitechpro/opeyemitechpro.github.io) 
+    ![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
+    [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/main)
+    [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
+    [![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
 
 
 ---
