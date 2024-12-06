@@ -10,9 +10,10 @@ pin: true
 
 
 <figure markdown="1">
-![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/favicon.png "Opeyemi Okuboyejo"){ width="150" }
-<figcaption><strong><h2>Opeyemi Okuboyejo</h2><h6>&nbsp;</h6><br> DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator || IT Support Engineer</strong></figcaption>
+![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
 </figure>
+<p align="center"><h2>Opeyemi Okuboyejo</h2></p>
+<p align="center">DevOps & Cloud Engineer<p>Certified Cloud Solutions Architect<br>Systems Administrator & IT Support Engineer</p>
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
