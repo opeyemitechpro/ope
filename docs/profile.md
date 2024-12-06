@@ -14,11 +14,15 @@ pin: true
 </figure>
 <h2 style="text-align: center;">Opeyemi Okuboyejo</h2>
 
-<p align="center">DevOps & Cloud Engineer</p><p>Certified Cloud Solutions Architect</p><p>Systems Administrator & IT Support Engineer</p>
+<p align="center">DevOps & Cloud Engineer</p>
+<p align="center">Certified Cloud Solutions Architect</p>
+<p align="center">Systems Administrator & IT Support Engineer</p>
+
 
 <div class="grid cards" markdown>
 
--   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
+-   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+
 :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
     ---
@@ -28,7 +32,8 @@ pin: true
 
     [:octicons-arrow-right-24: Getting started](#)
 
--   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
+-   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+
 :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
 
     ---
@@ -88,6 +93,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ==`2020 - Till Date` || `Ogun State, Nigeria`==
 
     **Systems Administrator, IT Support Engineer**
+
     - Three Rings Integrity Systems is an IT service company that provides IT services to small, medium, and large businesses.
     - Working with a wide range of clients, I provide web hosting, server setup and configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances.
     - For small businesses without an in-house IT team, I provide technical IT support, website design & development services and self-hosted email marketing solutions for email marketing clients.
@@ -101,6 +107,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ==`2019 - 2020` || `San Fransisco Bay Area`==
     
     **Remote Support Engineer**
+
     - SunPoint IT Solutions is a growing Managed Services Provider (MSP) based in the San Francisco Bay Area, USA.
     - Using Datto’s Autotask Professional Services Automation (PSA) and Remote Monitoring and management (RMM) tools, I remotely administer solutions to support tickets raised ensuring client’s business process has the shortest possible interruption.
     - Skills/Tools: Remote IT Support, Datto Autotask RMM
@@ -109,6 +116,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ==`2007 - 2017` || `Ogun State, Nigeria`==
     
     **Systems & Network Engineer**
+    
     - Regularly relate directly with clients to resolve various challenges with their PCs ranging from hardware faults to software crashes and general interconnectivity issues that arise from day-to-day usage of personal computers (including Laptops and Desktops) both in-house and onsite.
     - Procured suitable and appropriate computer systems for both individuals and organizations based on professional recommendations
     - Negotiated several IT contracts and led the delivery of various end-to-end projects over an 8-year period
