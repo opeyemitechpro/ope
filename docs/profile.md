@@ -17,32 +17,7 @@ pin: true
 <p align="center">DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator & IT Support Engineer</p>
 
 
-<!-- ??? project "OpenVPN Access Server Setup on AWS Using Terraform" 
-    
-    <div class="grid cards" markdown>
 
-    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="100" }
-
-    :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
-
-        ---
-
-        Install [`mkdocs-material`](https://opeyemitech.pro/my-projects) with [`pip`](https://opeyemitech.pro/my-projects) and get up
-        and running in minutes
-
-        [:octicons-arrow-right-24: Getting started](#)
-
-    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="100" }
-
-    :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
-
-        ---
-
-        Focus on your content and generate a responsive and searchable static site
-
-        [:octicons-arrow-right-24: Reference](https://opeyemitech.pro/my-projects)
-
-    </div> -->
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
@@ -86,10 +61,20 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ---
 
+## **Projects**
+[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) 
+
+[:briefcase: Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
+
+!!! project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
+
+    Setup OpenPVN Access Server on AWS Using Terraform
+    [:material-file-document-edit: View Project Documentation](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" }
+    
 
 ##  **Experience**
 
-??? project "Three Rings Integrity Systems (TRIS)"
+??? work-green "Three Rings Integrity Systems (TRIS)"
     ==`2020 - Till Date` || `Ogun State, Nigeria`==
 
     **Systems Administrator, IT Support Engineer**
@@ -125,12 +110,57 @@ Looking for an opportunity to work in a challenging position combining my skills
     - As part of mentoring initiatives, I led several initiatives targeted at developing IT skills in the community and providing internship, IT training and development for young graduates and college students transiting to universities
     - Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management
 
-## **Projects**
-[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) [Opeyemi's Project Portfolio :briefcase:](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
 
 ## **Tech Stack**
 
 ## **Certifications**
+
+!!! award "AWS Certified Solutions Architect – Associate" 
+    
+    <div class="grid cards" markdown>
+
+    -   ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="100" }
+
+    :fontawesome-solid-award:{ .lg .middle } __AWS Certified Solutions Architect – Associate__
+
+        ---
+
+        Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
+        
+        [Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+        
+        [View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" } 
+
+        [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+
+        [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
+
+    </div>
+
+!!! award "Miscrosoft Certified Professional (MCP)" 
+    
+    <div class="grid cards" markdown>
+
+    -   ![Miscrosoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.png "Miscrosoft Certified Professional (MCP)"){ width="100" }
+
+    :fontawesome-solid-award:{ .lg .middle } __Miscrosoft Certified Professional (MCP)__
+
+        ---
+
+        Expert in Microsoft systems, hardware, software, and platforms 
+        
+        [Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        
+        [View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" } 
+
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+
+    </div>
+
+
+
 
 ## Profile Mod-1
 
