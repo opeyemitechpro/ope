@@ -28,7 +28,7 @@ pin: true
 /// -->
 
 
-## **About Me**
+## ** :fontawesome-regular-id-card: About Me**
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
   
@@ -61,103 +61,122 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ---
 
-## **Projects**
-[![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) 
+## **:tools: Projects**
 
-[:briefcase: Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
-
-!!! project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
-
-    Setup OpenPVN Access Server on AWS Using Terraform
-    [:material-file-document-edit: View Project Documentation](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" }
+!!! project "My Projects"
     
+    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) 
 
-##  **Experience**
+    [:tools: View Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
 
-??? work-green "Three Rings Integrity Systems (TRIS)"
-    ==`2020 - Till Date` || `Ogun State, Nigeria`==
+    ??? project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
 
-    **Systems Administrator, IT Support Engineer**
+        Setup OpenPVN Access Server on AWS Using Terraform
 
-    - Three Rings Integrity Systems is an IT service company that provides IT services to small, medium, and large businesses.
-    - Working with a wide range of clients, I provide web hosting, server setup and configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances.
-    - For small businesses without an in-house IT team, I provide technical IT support, website design & development services and self-hosted email marketing solutions for email marketing clients.
-    - Clients are supported through various means including break-fix, proactive managed support and engagement with principal stakeholders to determine business direction and propose/implement solutions that support their business outcomes.
-    - Web Hosting Server Setup and Configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances
-    - Website Design & Development services
-    - Self-Hosted Email Server Configuration for Email Marketing Clients
-    - Skills/Tools: Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
+        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" }
 
-??? work-green "SunPoint IT Solutions, LLC"
-    ==`2019 - 2020` || `San Fransisco Bay Area`==
-    
-    **Remote Support Engineer**
-
-    - SunPoint IT Solutions is a growing Managed Services Provider (MSP) based in the San Francisco Bay Area, USA.
-    - Using Datto’s Autotask Professional Services Automation (PSA) and Remote Monitoring and management (RMM) tools, I remotely administer solutions to support tickets raised ensuring client’s business process has the shortest possible interruption.
-    - Skills/Tools: Remote IT Support, Datto Autotask RMM
-
-??? work-green "Three Rings Integrity Systems (TRIS)"
-    ==`2007 - 2017` || `Ogun State, Nigeria`==
-    
-    **Systems & Network Engineer**
-
-    - Regularly relate directly with clients to resolve various challenges with their PCs ranging from hardware faults to software crashes and general interconnectivity issues that arise from day-to-day usage of personal computers (including Laptops and Desktops) both in-house and onsite.
-    - Procured suitable and appropriate computer systems for both individuals and organizations based on professional recommendations
-    - Negotiated several IT contracts and led the delivery of various end-to-end projects over an 8-year period
-    Supplied and configured servers, LAN, WAN, wireless networks, and end-user devices for multiple office spaces as well as technology refresh of State Government and private establishments like printing press, large workshops, and personnel workspaces. 95% of the projects were delivered within budget, scope, and time while also ensuring quality service was delivered.
-    - Secured and managed multi-year contracts to maintain the smooth running of the IT infrastructure. This multi-year contracts across multiple offices helped keep the operations of the State Government on a sustainable budget, achieve operational efficiency between different locations, reduce time to delivery and improved stability.
-    - As part of mentoring initiatives, I led several initiatives targeted at developing IT skills in the community and providing internship, IT training and development for young graduates and college students transiting to universities
-    - Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management
-
-
-## **Tech Stack**
-
-## **Certifications**
-
-!!! award "AWS Certified Solutions Architect – Associate" 
-    
-    <div class="grid cards" markdown>
-
-    -   ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="100" }
-
-    :fontawesome-solid-award:{ .lg .middle } __AWS Certified Solutions Architect – Associate__
-
+        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/OpenVPN-Terraform-Setup){: target="_blank" }
+        
         ---
 
-        Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
+        In this mini-project, I demonstrated how to setup and self-host a VPN server on AWS using terraform and OpenVPN Access Server.
+
+
+
+
+##  ** :briefcase: Work Experience**
+
+!!! work-green "Work Experience"
+
+    ??? work-green "Three Rings Integrity Systems (TRIS)"
+        ==`2020 - Till Date` || `Ogun State, Nigeria`==
+
+        **Systems Administrator, IT Support Engineer**
+
+        - Three Rings Integrity Systems is an IT service company that provides IT services to small, medium, and large businesses.
+        - Working with a wide range of clients, I provide web hosting, server setup and configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances.
+        - For small businesses without an in-house IT team, I provide technical IT support, website design & development services and self-hosted email marketing solutions for email marketing clients.
+        - Clients are supported through various means including break-fix, proactive managed support and engagement with principal stakeholders to determine business direction and propose/implement solutions that support their business outcomes.
+        - Web Hosting Server Setup and Configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances
+        - Website Design & Development services
+        - Self-Hosted Email Server Configuration for Email Marketing Clients
+        - Skills/Tools: Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
+
+    ??? work-green "SunPoint IT Solutions, LLC"
+        ==`2019 - 2020` || `San Fransisco Bay Area`==
         
-        [Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+        **Remote Support Engineer**
+
+        - SunPoint IT Solutions is a growing Managed Services Provider (MSP) based in the San Francisco Bay Area, USA.
+        - Using Datto’s Autotask Professional Services Automation (PSA) and Remote Monitoring and management (RMM) tools, I remotely administer solutions to support tickets raised ensuring client’s business process has the shortest possible interruption.
+        - Skills/Tools: Remote IT Support, Datto Autotask RMM
+
+    ??? work-green "Three Rings Integrity Systems (TRIS)"
+        ==`2007 - 2017` || `Ogun State, Nigeria`==
         
-        [View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" } 
+        **Systems & Network Engineer**
 
-        [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+        - Regularly relate directly with clients to resolve various challenges with their PCs ranging from hardware faults to software crashes and general interconnectivity issues that arise from day-to-day usage of personal computers (including Laptops and Desktops) both in-house and onsite.
+        - Procured suitable and appropriate computer systems for both individuals and organizations based on professional recommendations
+        - Negotiated several IT contracts and led the delivery of various end-to-end projects over an 8-year period
+        Supplied and configured servers, LAN, WAN, wireless networks, and end-user devices for multiple office spaces as well as technology refresh of State Government and private establishments like printing press, large workshops, and personnel workspaces. 95% of the projects were delivered within budget, scope, and time while also ensuring quality service was delivered.
+        - Secured and managed multi-year contracts to maintain the smooth running of the IT infrastructure. This multi-year contracts across multiple offices helped keep the operations of the State Government on a sustainable budget, achieve operational efficiency between different locations, reduce time to delivery and improved stability.
+        - As part of mentoring initiatives, I led several initiatives targeted at developing IT skills in the community and providing internship, IT training and development for young graduates and college students transiting to universities
+        - Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management
 
-        [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
 
-    </div>
+## **💻 Tech Stack**
 
-!!! award "Miscrosoft Certified Professional (MCP)" 
-    
-    <div class="grid cards" markdown>
 
-    -   ![Miscrosoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.png "Miscrosoft Certified Professional (MCP)"){ width="100" }
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![OpenVPN](https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-    :fontawesome-solid-award:{ .lg .middle } __Miscrosoft Certified Professional (MCP)__
 
-        ---
+## ** :fontawesome-solid-award: Certifications**
 
-        Expert in Microsoft systems, hardware, software, and platforms 
+!!! award "Certifications and Awards"
+
+    !!! award "AWS Certified Solutions Architect – Associate" 
         
-        [Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        <div class="grid cards" markdown>
+
+        -   :fontawesome-solid-award:{ .lg .middle } __AWS Certified Solutions Architect – Associate__
+
+            ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
         
-        [View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" } 
+            ---
 
-        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+            Ability to strategically design well-architected distributed AWS systems that are scalable, resilient, efficient, and fault-tolerant 
+            
+            [Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
+            
+            [View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" } 
 
-        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+            [:fontawesome-solid-award: Verify Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/SGFCPQRK414QQPSV){: target="_blank" }
 
-    </div>
+            [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" }
+
+        </div>
+
+    !!! award "Miscrosoft Certified Professional (MCP)" 
+        
+        <div class="grid cards" markdown>
+
+        -   :fontawesome-solid-award:{ .lg .middle } __Miscrosoft Certified Professional (MCP)__
+
+            ![Miscrosoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Professional (MCP)"){ width="200" }        
+            ---
+
+            Expert in Microsoft systems, hardware, software, and platforms 
+            
+            [Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+            
+            [View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" } 
+
+            [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+
+            [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+
+        </div>
 
 
 
@@ -170,6 +189,8 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=opeyemitechpro&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=opeyemitechpro&theme=dark&hide_border=false)<br/>
