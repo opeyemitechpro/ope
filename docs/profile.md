@@ -12,8 +12,32 @@ pin: true
 <figure markdown="1">
 ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
 </figure>
-<p align="center"><h2>Opeyemi Okuboyejo</h2></p>
-<p align="center">DevOps & Cloud Engineer<p>Certified Cloud Solutions Architect<br>Systems Administrator & IT Support Engineer</p>
+<h2 style="text-align: center;">Opeyemi Okuboyejo</h2>
+
+<p align="center">DevOps & Cloud Engineer</p><p>Certified Cloud Solutions Architect</p><p>Systems Administrator & IT Support Engineer</p>
+
+<div class="grid cards" markdown>
+
+-   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
+:material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+
+    ---
+
+    Install [`mkdocs-material`](#) with [`pip`](#) and get up
+    and running in minutes
+
+    [:octicons-arrow-right-24: Getting started](#)
+
+-   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
+:fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+</div>
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
@@ -60,7 +84,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **Experience**
 
-??? work "Three Rings Integrity Systems (TRIS)"
+??? work-green "Three Rings Integrity Systems (TRIS)"
     ==`2020 - Till Date` || `Ogun State, Nigeria`==
 
     **Systems Administrator, IT Support Engineer**
@@ -73,7 +97,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     - Self-Hosted Email Server Configuration for Email Marketing Clients
     - Skills/Tools: Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
 
-??? work "SunPoint IT Solutions, LLC"
+??? work-green "SunPoint IT Solutions, LLC"
     ==`2019 - 2020` || `San Fransisco Bay Area`==
     
     **Remote Support Engineer**
@@ -81,7 +105,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     - Using Datto’s Autotask Professional Services Automation (PSA) and Remote Monitoring and management (RMM) tools, I remotely administer solutions to support tickets raised ensuring client’s business process has the shortest possible interruption.
     - Skills/Tools: Remote IT Support, Datto Autotask RMM
 
-??? work "Three Rings Integrity Systems (TRIS)"
+??? work-green "Three Rings Integrity Systems (TRIS)"
     ==`2007 - 2017` || `Ogun State, Nigeria`==
     
     **Systems & Network Engineer**
