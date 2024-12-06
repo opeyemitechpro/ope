@@ -10,20 +10,18 @@ pin: true
 
 
 <figure markdown="1">
-![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="250" }
+![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="250" }
 </figure>
 <h2 style="text-align: center;">Opeyemi Okuboyejo</h2>
 
-<p align="center">DevOps & Cloud Engineer</p>
-<p align="center">Certified Cloud Solutions Architect</p>
-<p align="center">Systems Administrator & IT Support Engineer</p>
+<p align="center">DevOps & Cloud Engineer<br>Certified Cloud Solutions Architect<br>Systems Administrator & IT Support Engineer</p>
 
 
-??? project "OpenVPN Access Server Setup on AWS Using Terraform" 
+<!-- ??? project "OpenVPN Access Server Setup on AWS Using Terraform" 
     
     <div class="grid cards" markdown>
 
-    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="100" }
 
     :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
 
@@ -34,7 +32,7 @@ pin: true
 
         [:octicons-arrow-right-24: Getting started](#)
 
-    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot.png "Opeyemi Okuboyejo"){ width="100" }
+    -   ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="100" }
 
     :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
 
@@ -44,7 +42,7 @@ pin: true
 
         [:octicons-arrow-right-24: Reference](https://opeyemitech.pro/my-projects)
 
-    </div>
+    </div> -->
 
 <!-- ![Opeyemi Okuboyejo Pix](assets/images/favicon.png "Opeyemi Okuboyejo") -->
 
