@@ -74,15 +74,19 @@ Looking for an opportunity to work in a challenging position combining my skills
     
     [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) 
 
+    <div style="text-align: center;">
     [:tools: View Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
+    </div>
 
     ??? project "Setup & Configure OpenVPN Access Server on AWS Using Terraform"
 
-        Setup OpenPVN Access Server on AWS Using Terraform
+        **Setup OpenPVN Access Server on AWS Using Terraform**
 
-        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" }
+        <div style="text-align: center;">
+        [:material-file-document-edit: View Detailed Project Documentation Here](https://opeyemitech.pro/my-projects/terraform_projects/openvpn_access_server/){: target="_blank" .md-button .md-button--primary}
 
-        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/OpenVPN-Terraform-Setup){: target="_blank" }
+        [:simple-github: View Project GitHub Repo Here](https://github.com/opeyemitechpro/OpenVPN-Terraform-Setup){: target="_blank" .md-button .md-button--primary}
+        </div>
         
         ---
 
@@ -138,15 +142,11 @@ Looking for an opportunity to work in a challenging position combining my skills
     
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim&perline=5" />
+        <img src="https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim&perline=7" />
       </a>
     </p>
 
-    ---
-
-    [![My Skills](https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim&perline=5)](https://opeyemitech.pro)
-
-    
+        
 ## **:fontawesome-solid-award: Certifications**
 
 !!! award ""
@@ -166,8 +166,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         [:fontawesome-solid-award: View Certificate](https://www.credly.com/badges/040a34fb-e1f1-47d3-bb9c-985cabde6990/linked_in?t=rv288y){: target="_blank" .md-button .md-button--primary}
         </div>
 
-
-        
+       
 
     ???+ award "Microsoft Certified Professional (MCP)" 
         
