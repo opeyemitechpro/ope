@@ -150,7 +150,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ???+ award "AWS Certified Solutions Architect – Associate" 
         
         <figure markdown="1">
-        ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="200" }
+        ![AWS Certified Solutions Architect – Associate](assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="300" }
         </figure>
           
         ---
@@ -168,46 +168,49 @@ Looking for an opportunity to work in a challenging position combining my skills
     ???+ award "Microsoft Certified Professional (MCP)" 
         
         <figure markdown="1">
-        ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="200" }
+        ![Microsoft Certified Professional (MCP)](assets/images/microsoftcertification_logo.jpg "Microsoft Certified Professional (MCP)"){ width="300" }
         </figure>
 
         ---
 
           - Proficient in Microsoft Products and Services. 
-                          
+        
+        <div style="text-align: center;">
         [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-
         [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        </div>
     
 
     ???+ award "Miscrosoft Certified Systems Administrator (MCSA)" 
         
         <figure markdown="1">
-        ![Miscrosoft Certified Systems Administrator (MCSA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Systems Administrator (MCSA)"){ width="200" }
+        ![Miscrosoft Certified Systems Administrator (MCSA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Systems Administrator (MCSA)"){ width="300" }
         </figure>
 
         ---
 
           - Support, troubleshoot, and maintain Microsoft Servers, Desktops and Networks 
                           
+        <div style="text-align: center;">
         [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-
         [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        </div>
     
 
     ???+ award "Miscrosoft Certified Database Administrator (MCDBA)" 
         
         <figure markdown="1">
-        ![Miscrosoft Certified Database Administrator (MCDBA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Database Administrator (MCDBA)"){ width="200" }
+        ![Miscrosoft Certified Database Administrator (MCDBA)](assets/images/microsoftcertification_logo.jpg "Miscrosoft Certified Database Administrator (MCDBA)"){ width="300" }
         </figure>
 
         ---
 
           - Manage on-premises and cloud databases built with SQL Server and SQL database services 
                         
+        <div style="text-align: center;">
         [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-
         [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        </div>
 
 
 
