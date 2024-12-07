@@ -138,9 +138,13 @@ Looking for an opportunity to work in a challenging position combining my skills
     
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim" />
+        <img src="https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim&perline=5" />
       </a>
     </p>
+
+    ---
+
+    [![My Skills](https://skillicons.dev/icons?i=git,aws,ansible,bash,docker,github,githubactions,grafana,jenkins,kubernetes,linux,md,mysql,nginx,powershell,prometheus,py,redhat,redis,terraform,vscode,windows,vim&perline=5)](https://opeyemitech.pro)
 
     
 ## **:fontawesome-solid-award: Certifications**
@@ -176,8 +180,8 @@ Looking for an opportunity to work in a challenging position combining my skills
           - Proficient in Microsoft Products and Services. 
         
         <div style="text-align: center;">
-        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
         </div>
     
 
@@ -192,8 +196,8 @@ Looking for an opportunity to work in a challenging position combining my skills
           - Support, troubleshoot, and maintain Microsoft Servers, Desktops and Networks 
                           
         <div style="text-align: center;">
-        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
         </div>
     
 
@@ -208,8 +212,8 @@ Looking for an opportunity to work in a challenging position combining my skills
           - Manage on-premises and cloud databases built with SQL Server and SQL database services 
                         
         <div style="text-align: center;">
-        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
-        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" }
+        [:fontawesome-solid-award: Verify Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
+        [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
         </div>
 
 
