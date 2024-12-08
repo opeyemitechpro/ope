@@ -55,7 +55,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
+      primary: purple
       accent: orange
       toggle:
         icon: material/brightness-4
@@ -63,8 +63,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
-      accent: light green
+      primary: blue grey
+      accent: lime
       toggle:
         icon: material/brightness-auto
         name: Switch to system preference
