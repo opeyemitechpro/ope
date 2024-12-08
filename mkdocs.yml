@@ -55,15 +55,15 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
-      accent: orange
+      primary: blue
+      accent: red
       toggle:
         icon: material/brightness-4
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: blue
       accent: lime
       toggle:
         icon: material/brightness-auto
@@ -78,7 +78,7 @@ plugins:
   - social:
       cards_layout: default/accent
       cards_layout_options:
-        background_color: deep purple
+        background_color: blue
         color: white
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
