@@ -55,7 +55,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
+      primary: deep purple
       accent: orange
       toggle:
         icon: material/brightness-4
@@ -78,7 +78,7 @@ plugins:
   - social:
       cards_layout: default/accent
       cards_layout_options:
-        background_color: indigo
+        background_color: deep purple
         color: white
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
