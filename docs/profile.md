@@ -46,7 +46,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ---
 
-![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
+![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge)
 
 ## **:fontawesome-solid-magnifying-glass-location: Where To Find Me**
 
