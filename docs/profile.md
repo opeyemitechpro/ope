@@ -67,6 +67,9 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }
 
+      [![HitCount](https://hits.dwyl.com/opeyemitechpro/my-projects.svg?style=flat&show=unique)](http://hits.dwyl.com/opeyemitechpro/my-projects){: target="_blank" }
+
+
     ---
     
     ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
