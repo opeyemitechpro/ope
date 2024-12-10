@@ -74,7 +74,8 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     ---
     
-    <!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
+
+<!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
 
 
     [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
@@ -93,14 +94,14 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     <!-- [![Projects Portfolio](https://img.shields.io/badge/-Opeyemi's_Projects_Portfolio-blue?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitechpro.github.io/my-projects)](https://opeyemitechpro.github.io/my-projects) -->
 
-    [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel-white?style=social&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/@opeyemitechpro)](https://www.youtube.com/channel/@opeyemitechpro)
-    [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCaD6f_WgaHbBY_7-YPrJMlA?style=social)](https://www.youtube.com/channel/UCaD6f_WgaHbBY_7-YPrJMlA)
+<!-- [![YouTube Badge](https://img.shields.io/badge/-YouTube_Channel-white?style=social&logo=YouTube&logoColor=red&link=https://www.youtube.com/channel/@opeyemitechpro)](https://www.youtube.com/channel/@opeyemitechpro)
+[![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCaD6f_WgaHbBY_7-YPrJMlA?style=social)](https://www.youtube.com/channel/UCaD6f_WgaHbBY_7-YPrJMlA)
 
-    ![GitHub stars](https://img.shields.io/github/stars/opeyemitechpro/opeyemitechpro.github.io) 
-    ![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
-    [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/main)
-    [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
-    [![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/) -->
+![GitHub stars](https://img.shields.io/github/stars/opeyemitechpro/opeyemitechpro.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/main)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
+[![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)  -->
 
 
 ## **:tools: Projects**
@@ -254,6 +255,8 @@ Looking for an opportunity to work in a challenging position combining my skills
         [:fontawesome-solid-award: View Certificate](https://learn.microsoft.com/en-us/users/opeyemitechpro/transcript/7ozzgs09e45ymk0){: target="_blank" .md-button .md-button--primary}
         </div>
 
+
+##  **:briefcase: Education**
 
 
 
