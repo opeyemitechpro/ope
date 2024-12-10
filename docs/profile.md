@@ -258,6 +258,15 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **:briefcase: Education**
 
+??? award "EDUCATION"
+
+    **Ladoke Akintola University of Technology**
+
+    _Oyo State, Nigeria_
+
+    Degree: Master of Information Technology
+    2014
+
 
 
 ## Profile Mod-1
