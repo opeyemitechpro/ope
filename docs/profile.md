@@ -63,16 +63,18 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 !!! location-search "Follow Me"
 
-    [![Opeyemi On LinkedIn](https://img.shields.io/badge/Opeyemi-On_LinkedIn-0077B5?labelColor=black&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-okuboyejo/){: target="_blank" } &nbsp;&nbsp; [![OpeyemiOn GitHub](https://img.shields.io/badge/Opeyemi-On_GitHub-181717?labelColor=grey&style=flat&logo=github&logoColor=white)](https://github.com/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On AWS Community](https://img.shields.io/badge/Opeyemi-On_AWS_Community-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://community.aws/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On YouTube](https://img.shields.io/badge/OpeyemiTechPro-On_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Dev.to](https://img.shields.io/badge/OpeyemiTechPro-On_Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Telegram](https://img.shields.io/badge/OpeyemiTechPro-On_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/opeyemitechpro_cloud/1){: target="_blank" }  &nbsp;&nbsp;[![Opeyemi On X.com](https://img.shields.io/badge/Opeyemi-On_X-blue?style=flat&logo=x&logoColor=white)](https://x.com/opeyemitechpro){: target="_blank" }
+    [![Opeyemi On LinkedIn](https://img.shields.io/badge/Opeyemi-On_LinkedIn-0077B5?labelColor=black&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-okuboyejo/){: target="_blank" } &nbsp;&nbsp; [![OpeyemiOn GitHub](https://img.shields.io/badge/Opeyemi-On_GitHub-181717?labelColor=grey&style=flat&logo=github&logoColor=white)](https://github.com/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On AWS Community](https://img.shields.io/badge/Opeyemi-On_AWS_Community-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://community.aws/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On YouTube](https://img.shields.io/badge/OpeyemiTechPro-On_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Dev.to](https://img.shields.io/badge/OpeyemiTechPro-On_Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Telegram](https://img.shields.io/badge/OpeyemiTechPro-On_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/opeyemitechpro_cloud/1){: target="_blank" }  &nbsp;&nbsp;[![Opeyemi On X.com](https://img.shields.io/badge/Opeyemi-On_X-blue?style=flat&logo=x&logoColor=white)](https://x.com/opeyemitechpro){: target="_blank" }&nbsp;&nbsp;
+    
+    ---
 
-    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }
+    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Opeyemi's-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
 
       [![HitCount](https://hits.dwyl.com/opeyemitechpro/my-projects.svg?style=flat&show=unique)](http://hits.dwyl.com/opeyemitechpro/my-projects){: target="_blank" }
 
 
     ---
     
-    ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
+    <!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge&logo=linkedin&logoSize=auto&label=Opeyemi%20on%20LinkedIn&labelColor=White)
 
 
     [![Linkedin Badge](https://img.shields.io/badge/-Opeyemi_On_LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opeyemi-okuboyejo/)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
@@ -98,7 +100,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     ![GitHub forks](https://img.shields.io/github/forks/opeyemitechpro/opeyemitechpro.github.io)
     [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/opeyemitechpro/opeyemitechpro.github.io/commits/main)
     [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://opeyemitechpro.github.io/)
-    [![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/)
+    [![Ask Me !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/opeyemi-okuboyejo/) -->
 
 
 ## **:tools: Projects**
