@@ -74,7 +74,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
     
 
-      [![HitCount](https://hits.dwyl.com/opeyemitechpro/my-projects.svg?style=for-the-badge&show=unique)](https://hits.dwyl.com/opeyemitechpro/my-projects){: target="_blank" }
+<!-- [![HitCount](https://hits.dwyl.com/opeyemitechpro/my-projects.svg?style=for-the-badge&show=unique)](https://hits.dwyl.com/opeyemitechpro/my-projects){: target="_blank" } -->
     
 
 
@@ -113,8 +113,6 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 !!! project "My Projects"
     
-    [![Portfolio Badge](https://img.shields.io/badge/-Opeyemi's_Project_Portfolio-purple?style=flat-square&logo=folder&logoColor=white&link=https://opeyemitech.pro/my-projects)](https://opeyemitech.pro/my-projects) 
-
     <div style="text-align: center;">
     [:tools: View Opeyemi's Project Portfolio](https://opeyemitech.pro/my-projects){: target="_blank" .md-button .md-button--primary}
     </div>
@@ -290,17 +288,17 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **:material-file-document-check: RESUME**
 
-!!! tip
+!!! tip ""
     <div style="text-align: center;">
     [Download my Resume here](https://docs.google.com/document/d/1NwoCfcx8Sm8jcpWjWo3TE26Kqm_gEsXriL8ZI70BPsM/edit?usp=sharing){: target="_blank" .md-button .md-button--primary}
     </div>
 
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCaD6f_WgaHbBY_7-YPrJMlA?style=flat&logo=youtube&label=OpeyemiTechPro%20On%20YouTube&labelColor=blue&color=red)
+<!-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCaD6f_WgaHbBY_7-YPrJMlA?style=flat&logo=youtube&label=OpeyemiTechPro%20On%20YouTube&labelColor=blue&color=red)
 
 
 
 <div style="text-align: center;">
 [![](https://visitcount.itsvg.in/api?id=opeyemitechpro&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 </div>
-
+ -->
