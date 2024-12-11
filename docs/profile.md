@@ -175,7 +175,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         - Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management
 
 
-## **💻 TECH STACK**
+## **TECH STACK**
 
 !!! project "Languages and Tools I Use"
     
