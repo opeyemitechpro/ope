@@ -9,7 +9,7 @@ pin: true
 ---
 
 
-## Home 
+## HOME 
 
 <figure markdown="1">
 ![Opeyemi Okuboyejo | DevOps & Cloud Engineer | Certified Cloud Solutions Architect | Systems Administrator](assets/images/OpeyemiTechPro-HeadShot-1.png "Opeyemi Okuboyejo"){ width="250" }
@@ -30,7 +30,7 @@ pin: true
 /// -->
 
 
-## **:fontawesome-regular-id-card: About Me**
+## **:fontawesome-regular-id-card: ABOUT ME**
 
 <h2>Hello, I'm Opeyemi Okuboyejo</h2>
   
@@ -59,21 +59,22 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 <!-- ![Static Badge](https://img.shields.io/badge/OPeyemi_On_LinkedIn?style=for-the-badge) -->
 
-## **:fontawesome-solid-magnifying-glass-location: Where To Find Me**
+## **:fontawesome-solid-magnifying-glass-location: WHERE TO FIND ME**
 
 
 !!! location-search "Follow Me"
 
+    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
+    
+    ---
+    
     [![Opeyemi On LinkedIn](https://img.shields.io/badge/Opeyemi-On_LinkedIn-0077B5?labelColor=black&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opeyemi-okuboyejo/){: target="_blank" } &nbsp;&nbsp; [![OpeyemiOn GitHub](https://img.shields.io/badge/Opeyemi-On_GitHub-181717?labelColor=grey&style=flat&logo=github&logoColor=white)](https://github.com/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On AWS Community](https://img.shields.io/badge/Opeyemi-On_AWS_Community-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](https://community.aws/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On YouTube](https://img.shields.io/badge/OpeyemiTechPro-On_YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Dev.to](https://img.shields.io/badge/OpeyemiTechPro-On_Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/opeyemitechpro){: target="_blank" } &nbsp;&nbsp;[![Opeyemi On Telegram](https://img.shields.io/badge/OpeyemiTechPro-On_Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/opeyemitechpro_cloud/1){: target="_blank" }  &nbsp;&nbsp;[![Opeyemi On X.com](https://img.shields.io/badge/Opeyemi-On_X-blue?style=flat&logo=x&logoColor=white)](https://x.com/opeyemitechpro){: target="_blank" }&nbsp;&nbsp;
     
     ---
 
-    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
+    
 
       [![HitCount](https://hits.dwyl.com/opeyemitechpro/my-projects.svg?style=for-the-badge&show=unique)](https://hits.dwyl.com/opeyemitechpro/my-projects){: target="_blank" }
-
-
-    ---
     
 
 
@@ -108,7 +109,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 
 
-## **:tools: Projects**
+## **:tools: PROJECTS**
 
 !!! project "My Projects"
     
@@ -135,7 +136,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 
 
-##  **:briefcase: Work Experience**
+##  **:briefcase: WORK EXPERIENCE**
 
 !!! work-green ""
 
@@ -176,7 +177,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         - Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management
 
 
-## **💻 Tech Stack**
+## **💻 TECH STACK**
 
 !!! project "Languages and Tools I Use"
     
@@ -187,7 +188,7 @@ Looking for an opportunity to work in a challenging position combining my skills
     </p>
 
         
-## **:fontawesome-solid-award: Certifications**
+## **:fontawesome-solid-award: CERTIFICATIONS & AWARDS**
 
 !!! award ""
 
@@ -260,16 +261,39 @@ Looking for an opportunity to work in a challenging position combining my skills
         </div>
 
 
-##  **:briefcase: Education**
+##  **:briefcase: EDUCATION**
 
-??? award "EDUCATION"
+??? school ""
 
-    **Ladoke Akintola University of Technology**
+    ???+ school ":fontawesome-solid-graduation-cap: EDUCATION"
+        
+        
+        **Ladoke Akintola University of Technology**
+        
+        _Oyo State, Nigeria_
+        
+        ==Degree: Master of Information Technology (MIT)==
+        
+        _2014_
+    
+    ???+ school ":fontawesome-solid-graduation-cap: EDUCATION"
 
-    _Oyo State, Nigeria_
+        **Ladoke Akintola University of Technology**
 
-    Degree: Master of Information Technology
-    2014
+        _Oyo State, Nigeria_
+
+        ==Degree: Post-Graduate Diploma (PgD) in Computer Science==
+
+        _2011_
+
+
+
+##  **:material-file-document-check: RESUME**
+
+!!! note
+    <div style="text-align: center;">
+    [Download my Resume here](https://docs.google.com/document/d/1NwoCfcx8Sm8jcpWjWo3TE26Kqm_gEsXriL8ZI70BPsM/edit?usp=sharing){: target="_blank" .md-button .md-button--primary}
+    </div>
 
 
 
