@@ -64,7 +64,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 !!! location-search "Follow Me"
 
-    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logo=terraform&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
+    [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro){: target="_blank" }&nbsp;&nbsp;[![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitech.pro/my-projects){: target="_blank" }&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com){: target="_blank" }
     
     ---
     
