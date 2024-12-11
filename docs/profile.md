@@ -263,26 +263,26 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **:briefcase: EDUCATION**
 
-??? school ""
+!!! school ""
 
-    ???+ school ":fontawesome-solid-graduation-cap: EDUCATION"
+    ???+ school ":fontawesome-solid-graduation-cap: Masters"
         
         
         **Ladoke Akintola University of Technology**
         
         _Oyo State, Nigeria_
         
-        ==Degree: Master of Information Technology (MIT)==
+        **Degree:** ==Master of Information Technology (MIT)==
         
         _2014_
     
-    ???+ school ":fontawesome-solid-graduation-cap: EDUCATION"
+    ???+ school ":fontawesome-solid-graduation-cap: Post-Graduate"
 
         **Ladoke Akintola University of Technology**
 
         _Oyo State, Nigeria_
 
-        ==Degree: Post-Graduate Diploma (PgD) in Computer Science==
+        **Degree:** ==Post-Graduate Diploma (PgD) in Computer Science==
 
         _2011_
 
