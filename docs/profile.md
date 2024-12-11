@@ -265,7 +265,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 !!! school ""
 
-    ???+ school ":fontawesome-solid-graduation-cap: Masters"
+    ???+ school "Masters"
         
         
         **Ladoke Akintola University of Technology**
@@ -276,7 +276,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         
         _2014_
     
-    ???+ school ":fontawesome-solid-graduation-cap: Post-Graduate"
+    ???+ school "Post-Graduate"
 
         **Ladoke Akintola University of Technology**
 
@@ -290,7 +290,7 @@ Looking for an opportunity to work in a challenging position combining my skills
 
 ##  **:material-file-document-check: RESUME**
 
-!!! note
+!!! tip
     <div style="text-align: center;">
     [Download my Resume here](https://docs.google.com/document/d/1NwoCfcx8Sm8jcpWjWo3TE26Kqm_gEsXriL8ZI70BPsM/edit?usp=sharing){: target="_blank" .md-button .md-button--primary}
     </div>
