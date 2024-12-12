@@ -54,7 +54,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 **AWS Certified Solutions Architect – Associate**
         
 <figure markdown="1">
-![AWS Certified Solutions Architect – Associate](../../assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate")
+![AWS Certified Solutions Architect – Associate](../docs/assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate")
 </figure>
           
 
