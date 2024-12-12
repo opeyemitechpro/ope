@@ -54,7 +54,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 **AWS Certified Solutions Architect – Associate**
         
 
-![AWS Certified Solutions Architect – Associate](../docs/assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate"){ width="300" }
+![AWS Certified Solutions Architect – Associate](https://github.com/opeyemitechpro/ope/blob/main/docs/assets/images/AWS-SAA-Logo.png "AWS Certified Solutions Architect – Associate")
 
           
 
@@ -91,8 +91,9 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 [![](https://visitcount.itsvg.in/api?id=opeyemitechpro&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<img src="https://raw.githubusercontent.com/opeyemitechpro/opeyemitechpro/output/snake.svg" alt="Snake animation" />
 
 
 
-:file-circle-check:
+https://github.com/opeyemitechpro/ope/blob/main/docs/assets/images/AWS-SAA-Logo.png
+
+https://github.com/opeyemitechpro/ope/blob/docs/assets/images/AWS-SAA-Logo.png
