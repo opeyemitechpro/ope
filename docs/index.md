@@ -151,17 +151,21 @@ Looking for an opportunity to work in a challenging position combining my skills
           - Web Hosting Server Setup and Configuration using Apache, Webmin/Virtualmin hosted on AWS EC2 Linux Compute instances
           - Website Design & Development services
           - Self-Hosted Email Server Configuration for Email Marketing Clients
+
           ==**Skills/Tools:**== Linux, Linux Administration, AWS EC2, Webmin/Virtualmin, Email Servers
 
     ??? work-green "SunPoint IT Solutions, LLC"
         ==2019 - 2020==
-        ==San Fransisco Bay Area==
+        ==San Fransisco Bay Area, USA==
         
         **Remote Support Engineer**
 
         - SunPoint IT Solutions is a growing Managed Services Provider (MSP) based in the San Francisco Bay Area, USA.
-        - Using Datto’s Autotask Professional Services Automation (PSA) and Remote Monitoring and management (RMM) tools, I remotely administer solutions to support tickets raised ensuring client’s business process has the shortest possible interruption.
-        ==**Skills/Tools: Remote IT Support, Datto Autotask RMM**==
+        - I Leverage Datto's Autotask PSA and RMM platforms to remotely manage and administer IT solutions, ensuring timely resolution of support tickets while prioritizing minimal disruption to client business operations. 
+        - My responsibilities include diagnosing and troubleshooting complex IT issues, deploying and maintaining infrastructure solutions, implementing automated monitoring protocols, and proactively identifying potential system vulnerabilities.
+        - I collaborate with cross-functional teams to optimize workflows and document solutions to enhance operational efficiency and service delivery standards
+
+        ==**Skills/Tools:**== Remote IT Support, Datto Autotask RMM
 
     ??? work-green "Three Rings Integrity Systems (TRIS)"
         ==2007 - 2017==
@@ -175,7 +179,8 @@ Looking for an opportunity to work in a challenging position combining my skills
         Supplied and configured servers, LAN, WAN, wireless networks, and end-user devices for multiple office spaces as well as technology refresh of State Government and private establishments like printing press, large workshops, and personnel workspaces. 95% of the projects were delivered within budget, scope, and time while also ensuring quality service was delivered.
         - Secured and managed multi-year contracts to maintain the smooth running of the IT infrastructure. This multi-year contracts across multiple offices helped keep the operations of the State Government on a sustainable budget, achieve operational efficiency between different locations, reduce time to delivery and improved stability.
         - As part of mentoring initiatives, I led several initiatives targeted at developing IT skills in the community and providing internship, IT training and development for young graduates and college students transiting to universities
-        ==**Skills/Tools: Infrastructure Solutions, LAN, WAN, Wireless networks, server management**==
+
+        ==**Skills/Tools:**== Infrastructure Solutions, LAN, WAN, Wireless networks, server management.
 
 
 ## **TECH STACK**
