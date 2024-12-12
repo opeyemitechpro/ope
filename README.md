@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&duration=2000&pause=500&color=F70303&width=435&lines=A+DevOps+Engineer...;A+Cloud+Engineer...;A+Certified+Solutions+Architect...;A+Systems+Administrator...;An+IT+support+Engineer...)](https://opeyemitech.pro)
 
 
-## :fontawesome-solid-magnifying-glass-location: Where To Find Me
+## :magnifying-glass-location: Where To Find Me
 [![Website](https://img.shields.io/badge/Opeyemi's-Profile-0A66C2?labelColor=yellow&style=flat&logo=aws&logoColor=white)](https://opeyemitech.pro) [![Website](https://img.shields.io/badge/Opeyemi's-Project_Portfolio-purple?labelColor=yellow&style=flat&logoColor=white)](https://opeyemitech.pro/my-projects) [![Gmail Badge](https://img.shields.io/badge/Opeyemi's-Email-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:okuboyejoopeyemi01@gmail.com)](mailto:okuboyejoopeyemi01@gmail.com) 
     
 ---
@@ -37,7 +37,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 ---
 
-## Tech Stack
+## :layer-group: Tech Stack
 
 **Languages and Tools I Use**
     
@@ -48,7 +48,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 </p>
 
         
-## :fontawesome-solid-award: Certifications & AWards
+## :award: Certifications & AWards
 
 
 **AWS Certified Solutions Architect – Associate**
@@ -66,7 +66,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 ---
 
-## :material-file-document-check: Resume
+## :file-circle-check: Resume
 
 
 [![Download Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=flat)](https://docs.google.com/document/d/1NwoCfcx8Sm8jcpWjWo3TE26Kqm_gEsXriL8ZI70BPsM/edit?usp=sharing)
@@ -92,3 +92,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 
 <img src="https://raw.githubusercontent.com/opeyemitechpro/opeyemitechpro/output/snake.svg" alt="Snake animation" />
+
+
+
+:file-circle-check:
