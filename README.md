@@ -66,7 +66,7 @@ In this mini-project, I demonstrated how to setup and self-host a VPN server on 
 
 ---
 
-## :file-circle-check: Resume
+### :file-circle-check: Resume
 
 
 [![Download Resume](https://img.shields.io/badge/Download-My_Resume-blue?style=flat)](https://docs.google.com/document/d/1NwoCfcx8Sm8jcpWjWo3TE26Kqm_gEsXriL8ZI70BPsM/edit?usp=sharing)
