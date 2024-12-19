@@ -3673,7 +3673,7 @@ __stdos__.logger = {
                                     window.lotame_sync_16621.sync();
                                   });
     
-                                  window.__sharethis__.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/panorama.js")
+                                  window.__sharethis__.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/panorama.js")
                                 }
                               } catch (e) {
                                 if (st_debug) {
@@ -3684,15 +3684,15 @@ __stdos__.logger = {
                             }
 
                             if(res.dmd === "true") {
-                              window.__sharethis__.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/dmd.js")
+                              window.__sharethis__.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/dmd.js")
                             }
 
                             if(res.atlas) {
-                              window.__sharethis__.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/atlas-exp.js")
+                              window.__sharethis__.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/atlas-exp.js")
                             }
 
                             if(res.navistone === "true") {
-                              window.__sharethis__.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/navistone.js")
+                              window.__sharethis__.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/navistone.js")
                             }
 
                           }
@@ -3801,7 +3801,7 @@ __stdos__.logger = {
         __stdos__.data.set("embeds_csv", _st.embeds.join(','), "pageInfo")
         /*
         setTimeout(function(){
-          //_st.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/rhombus.js")
+          //_st.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/rhombus.js")
         }, 3000)
         */
       }
@@ -4154,7 +4154,7 @@ __stdos__.logger = {
     };
     if (display === "always") {
       __cmp('showConsentTool');
-      return st.js("https://opeyemitechpro.github.io/ope/assets/external/gdpr-api.sharethis.com/cmp.js");
+      return st.js("https://opeyemitechpro.github.io/assets/external/gdpr-api.sharethis.com/cmp.js");
     } else if (display === "eu") {
       _xhr = new XMLHttpRequest();
       _xhr.open("GET", "https://gdpr-api.sharethis.com/is_eu");
@@ -4164,7 +4164,7 @@ __stdos__.logger = {
           var ref;
           if ((ref = _xhr.response) != null ? ref.is_eu : void 0) {
             __cmp('showConsentTool');
-            return st.js("https://opeyemitechpro.github.io/ope/assets/external/gdpr-api.sharethis.com/cmp.js");
+            return st.js("https://opeyemitechpro.github.io/assets/external/gdpr-api.sharethis.com/cmp.js");
           }
         };
       })(this);
@@ -4235,7 +4235,7 @@ __stdos__.logger = {
       preview: preview
     };
     if (display === "always") {
-      return st.js("https://opeyemitechpro.github.io/ope/assets/external/gdpr-api.sharethis.com/cmp-v2.js");
+      return st.js("https://opeyemitechpro.github.io/assets/external/gdpr-api.sharethis.com/cmp-v2.js");
     } else if (display === "eu") {
       _xhr = new XMLHttpRequest();
       _xhr.open("GET", "https://gdpr-api.sharethis.com/is_eu");
@@ -4244,7 +4244,7 @@ __stdos__.logger = {
         return function() {
           var ref;
           if ((ref = _xhr.response) != null ? ref.is_eu : void 0) {
-            return st.js("https://opeyemitechpro.github.io/ope/assets/external/gdpr-api.sharethis.com/cmp-v2.js");
+            return st.js("https://opeyemitechpro.github.io/assets/external/gdpr-api.sharethis.com/cmp-v2.js");
           }
         };
       })(this);
@@ -5274,7 +5274,7 @@ __stdos__.logger = {
     if (!config.enabled) {
       return;
     }
-    return st.js("https://opeyemitechpro.github.io/ope/assets/external/platform-api.sharethis.com/ppg.js");
+    return st.js("https://opeyemitechpro.github.io/assets/external/platform-api.sharethis.com/ppg.js");
   };
 
 }).call(this);
