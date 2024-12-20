@@ -94,8 +94,7 @@ plugins:
       locale: en
       fallback_to_build_date: true
   - privacy:
-      assets_exclude: 
-        - https://pagead2.googlesyndication.com/*
+      assets: false
   # Redirect Docs - https://github.com/mkdocs/mkdocs-redirects
   - redirects:
       redirect_maps:
